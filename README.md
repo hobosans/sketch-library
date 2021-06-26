@@ -1,4 +1,4 @@
-## 欢迎来到
+## 官方 Sketch 组件库
 
 You can use the [editor on GitHub][1] to maintain and preview the content for your website in Markdown files.
 
