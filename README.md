@@ -1,8 +1,7 @@
 ## 官方 Sketch 组件库
+![][image-1]
 
-You can use the [editor on GitHub][1] to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll][2] to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll][1] to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -26,19 +25,20 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown][3].
+For more details see [GitHub Flavored Markdown][2].
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings][4]. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings][3]. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation][5] or [contact support][6] and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation][4] or [contact support][5] and we’ll help you sort it out.
 
-[1]:	https://github.com/hobosans/sketch-library/edit/main/README.md
-[2]:	https://jekyllrb.com/
-[3]:	https://guides.github.com/features/mastering-markdown/
-[4]:	https://github.com/hobosans/sketch-library/settings/pages
-[5]:	https://docs.github.com/categories/github-pages-basics/
-[6]:	https://support.github.com/contact
+[1]:	https://jekyllrb.com/
+[2]:	https://guides.github.com/features/mastering-markdown/
+[3]:	https://github.com/hobosans/sketch-library/settings/pages
+[4]:	https://docs.github.com/categories/github-pages-basics/
+[5]:	https://support.github.com/contact
+
+[image-1]:	file:///Users/hobombp/Work/D%235941_Sketch%20RSS%20%E8%AE%A2%E9%98%85%E6%B5%8B%E8%AF%95/1_Vendor%20%E4%BA%A4%E4%BB%98/Dist/cover/01.png
