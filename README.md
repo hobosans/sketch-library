@@ -41,4 +41,4 @@ Having trouble with Pages? Check out our [documentation][4] or [contact support]
 [4]:	https://docs.github.com/categories/github-pages-basics/
 [5]:	https://support.github.com/contact
 
-[image-1]:	file:///Users/hobombp/Work/D%235941_Sketch%20RSS%20%E8%AE%A2%E9%98%85%E6%B5%8B%E8%AF%95/1_Vendor%20%E4%BA%A4%E4%BB%98/Dist/cover/01.png
+[image-1]:	https://hobosans.github.io/sketch-library/image/01.png
