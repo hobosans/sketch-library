@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>...</title>
+    <description>...</description>
+    <link>...</link>
+    <image>
+        <url>https://res.insta360.com/static/assets/storage/20210617/0d7f084cf9d720ae1517819c04657f44/library_cover_colors.jpg</url>
+        <title>...</title>
+        <link>...</link>
+    </image>
+    <generator>Sketch</generator>
+    <lastBuildDate>[UTC Time]</lastBuildDate>
+    <language>en</language>
+    <item>
+      <title>Insta360 Colors Library_V1.0.0</title>
+      <pubDate>[UTC Time]</pubDate>
+      <enclosure url="https://www.dropbox.com/s/jxainrrvpbnqv8y/Insta360%20Colors%20Library_V1.0.0.sketch?dl=0" sparkle:version="V1.0.0" length="..." type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
