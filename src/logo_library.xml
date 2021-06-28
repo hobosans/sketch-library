@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>...</title>
+    <description>...</description>
+    <link>...</link>
+    <image>
+        <url>https://res.insta360.com/static/assets/storage/20210617/0d7f084cf9d720ae1517819c04657f44/library_cover_colors.jpg</url>
+        <title>...</title>
+        <link>...</link>
+    </image>
+    <generator>Sketch</generator>
+    <lastBuildDate>[UTC Time]</lastBuildDate>
+    <language>en</language>
+    <item>
+      <title>Insta360 Brand Logo and Product Logo Library_V1.0.0</title>
+      <pubDate>[UTC Time]</pubDate>
+      <enclosure url="https://res.insta360.com/static/assets/storage/20210628/d5a5eedef78f26995a10d5a7896fd197/Insta360_Brand_Product_Logo_V1.0.0.sketch" sparkle:version="V1.0.0" length="..." type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
